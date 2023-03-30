@@ -1,0 +1,10 @@
+Grocery:  html/body/div/div/div[2]/div/div/div[1]/a/div[1]/div/img
+Mobile :  html/body/div/div/div[2]/div/div/div[2]/a/div[1]/div/img
+Fashion:  html/body/div/div/div[2]/div/div/div[3]/a/div[1]/div/img      
+Electronic:html/body/div/div/div[2]/div/div/div[4]/a/div[1]/div/img
+Home:      html/body/div/div/div[2]/div/div/div[5]/a/div[1]/div/img
+Appliance :html/body/div/div/div[2]/div/div/div[6]/a/div[1]/div/img
+Travel    :html/body/div/div/div[2]/div/div/div[7]/a/div[1]/div/img
+Top offser:html/body/div/div/div[2]/div/div/div[8]/a/div/div[1]/img
+Beauty toys & more:html/body/div/div/div[2]/div/div/div[9]/a/div/div[1]/img
+Two wheeler:html/body/div/div/div[2]/div/div/div[10]/a/div/div[1]/img
